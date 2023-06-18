@@ -4,5 +4,5 @@ AWS Amplify Template from [this post](https://dev.to/bastianbavaresco/social-aut
 
 Use this command to clone the template:
 ```console
-amplify init --app https://github.com/bastianbb/social-authentication
+amplify init --app https://github.com/rishumehrotra/social-authentication
 ```
